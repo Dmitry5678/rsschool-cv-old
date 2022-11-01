@@ -21,8 +21,8 @@ I am 39 years old, have a PhD in Art History. I have been working in education i
 ### IT Skills
 * HTML
 * CSS
-* JavaScript (Basic)
-* Git/GitHub
+* *JavaScript (Basic)*
+* *Git/GitHub*
 
 
 ### Code Example
