@@ -1,0 +1,63 @@
+# CV
+--------
+
+![Foto](https://lh3.googleusercontent.com/4KcuUH5kJrz4RcL9JgKDWCKoDx_wNPYgyMqZrjnxi_DqT7IWyr10Si59zmxCA3vwSQ2PI3ooVOMTInxD31WDmnGyFEWILbymREHOjWJA_ssTAGN-iXhvtlv-8JymBQvypNmOImHAP5DzNdJEaBE3g_Jsw6wmOLIW3iu4UrTGUph8o_T36NWe7_EG1WFxfIETPuDrOS0KRhrakbeLZDnI5uLlyyPsGnptOEdYr3008n4vEDwd1JD_mV-UF5InMzfpNA9IpjfqYNkGwX4TFBGWsYD7S-MAX9Ou7pN6ci61VWxA4VpPAcN76_S45n4-65E2RiVB2g-4e1E42ZYSvO0KtBOIonBJcWvuBZ7AvTXKkTLcTjyUScXDU4bN9btrtoltH1nm6FRSqd968HjnHYTHGCUrKJ6pvti3aCxLcMZzR0zdEGXgaoswbSrnBeTMStaRwfhhunqK8QDaUMPhYgDUQUQ6ocgoPAvvpX0mSnvyqnSHRMIV-HMEU9NptMYFr_e6NKU4-yl5b4IFHzX-l0NE_syJC05EC7JCM9R46U3bRehq6_TX4VOxjWHC2FWnySH1t_05xGcKKa5gOPpBHai9uvVJjBJHrDDhlbp8JMo1FESxNB_6iPweP5zJn6SzA-xKPNex_R8ctyLm9cQ9KPTlMWbKpxgfweGLl9upRMr9HFd09dAiEmXsYnontiI6gDm4Dtt_APIIJaWgb30-pawxBEz8_vNR0DTy6IbUrDH6K0-ttHzaVRRHv8s5gO1_EzJxUzecHM8dbK4wBpn7V_d90xIsx2-t0NlFuttk7gVO55i0-Lc1ddMCGPN2K9_kT_kLB1yhBnbGOE8wHYs9ny8PziYWQgHf0PwV7IKDvmx9dLWZF3JQR8Hvd4ipWIOXkrkqs5Fg5Isyk55QhOEj38ajwhMhr4Yw6el7mOZQHy6rmvDbbA=w288-h267-no?authuser=0)
+
+
+-------------------------
+## Dmitry Skachkov
+-------
+### My contacts
+* **Phone:** +375 29 5599590
+* **E-mail:** bttpervii@gmail.com
+* **Telegram:** @darius4433
+* **GitHub:** Dmitry5678
+* **Nickname on the discord server RS School:** Дмитрий56#1368
+
+### Information about myself
+
+I am 39 years old, have a PhD in Art History. I have been working in education institution and lecturing the history and theory of art for over 10 years. My goal is to get new knowledge and skills in the field of front-end development, which can be applied in practice. I believe my new skills will allow me to be more independent and free. I know I can do it.  
+
+### IT Skills
+* HTML
+* CSS
+* JavaScript (Basic)
+* Git/GitHub
+
+
+### Code Example
+*Highest and Lowest* KATA training from **CODEWARS**:
+```
+function highAndLow(numbers){
+  return hight (numbers)
+}
+function sum(a, b) {
+  return a + b;
+}
+let result = sum(1, 2);
+alert( result );
+```
+
+### IT Courses
+1. HTML and CSS Free programming courses on the [Hexlet Code Basics](https://ru.code-basics.com/)
+
+
+![HTML SCC sertificat](https://lh3.googleusercontent.com/U_jsXhIVuDIWExpe5I6kr8v-VPzBKOxbKWU_hwvkLnqd89-ayLy-ju3J6p-3wqcqdsR2kT_KvrVp37xAHXczSow5f0DxUfNzyANewPuK3LrB1QfpGE9GNCUuzwLCooSmgSleglX3cYA6p35-TaUQebp7JyuuLqquP3fwJuSxNTzaK8KLyXgCcxnr3So2TREbr6WeLQwyW4Ie7B3UYd2O79dXAnDmBNxQL-SOy6kGzcz3NZvFzduQ2QSQAJ4Iq7arh07Tjqq-XD5z8Y1RZAQ-NQwYltJIahPQ_lyAzXOQV5QcBRD8bS206ftqAMKm1GD4fmebglZ14JfHT7lSsrgPG6Y1De_9LC94PnDoWfvyD1b1NSUoGOHWHTEDq6nOsoPAPc0xf-_iG4TRlKyhWT1edYoeBC4zqREHhCahZCz8jK5P7GKpMnZvoMG-i5tzl9QkXwTKwAqCuPjFGQhj9ILtlL8Fo8JiDMrYmqe3zbJ2lauVb1ZgH3Mg0vyc7Wl45EbXk1sDIReHhMtX9C0Pn5iwA9HrW5l8eumrwFeytg2bx6rMSLRg2tw2j7sBYc9jDNbE3DZuWZHehYhi1YLkPC7Zmi-5hHUedrTrquvuMGN-14SgYIXqZUNT9u9TWgQO6tWvhljQZf4VgPJvYnXV9olVsZYAQoyK7L6RKlEcKj_Y20L6ycNOC-EJ01sFZbMcW_vErNowgyEj5H0NB-2UXQIJIBZ7fzrvpWFPfhRH1WkeCjSFYCEdofRDvjVnNFw31TEmM6Bcl0-1gK4gABhzPvdjOJKB2eYDQyWd40H-ESNcOE5Oi4W4G85XbbQKAON27ClnBkZRlUtjrcWJ9G9TgN1fIpXlIRtdgLibi3N9E_BMLZ8yyP_Au0ObwpU598y8zLJ2So8m-tVZCNUjK-g60XcFGAdEYGOokEz0tVPU-6rsXQCXag=w1096-h307-no?authuser=0)
+
+2. “Frontend Start” Free intensive program on the [Itlogia](https://itlogia.ru/)
+
+
+![Itlogia sertificat](https://lh3.googleusercontent.com/WgeVAEFpE51g4jnQkTExRbEHFwpgcHB9peB_fpHl9pyOxVHs6OERsUh_es3R58qTKTNkXTjOJ5r-bsLoUxQvby8ZjxtP4LhNeIUFG2w0cpBRqs7_N5f3bmjn8qmbhGVvPYUWAoUpNTfj8DVlBzscKsGjmjiCjITHOdTpi_Q9i5uZ9KbgtopJj_pm_UXGEuS-SAJytYDDLPtOOaq108_j7T7KAwilLxrmSje6461U-32xObG4y1mIIKPYqbk1O1MGULTP8TMwQ31-qVxTLWSZouX68s6zLysm-eXNR6NtUEbEq0YbAkVkJqQkJMIe_7F212hP5R6THWLP_7mxOJD9iOOAg03yk23IMM9Kj2lDPtOSPtL7QChMpjz_KuiHDt_-xyUdViB5ADUb_UZs839sMZewUqG8msXUIBDplJqxdqHpFit0C8FvAc2gYX30oMAX6U7zlnMeZLuG4xCzBOCbcEcok8Criml6vmlIMVd9bC1H4w1T8suaEuEUbueEziocd61vS646DI57kX_6mmPIXQDDMcvcsHq2c4THmKgQRd-m6ZR5ZN38ivntv7XNL4CzH57tV099HTpqNWAt22DvCChA4R7ISq6hyMYaphFxZA955gcyH4D4IssqQOpVJCHpZW0nlZQtfVJWNZo-i64SstsGOqBDpCY1yGnSSLC_D2178gasowjUJvC4TmKbVNEUivKqY_z7_CN1tIJwFd49Z7zhZDKEtpxQX4isW9jrYkktGxaCti4Al2xq1EnJMBHvwSqKkINVj_qXAfy1lP9bfxh6vVT_0y_O4zmJyaA28N7uKGoVgiTcCJia8wABbp3pEmht877FHv94TIo7qKubaBq_y_fdFJTG2bZ1vR_BPb7Vl57j6QyYKeB5Lj2L6Ps0AhWarleZAHKeF8vtUqdePCKFQ-EnI77jfIZlrWKmEFkgqw=w458-h323-no?authuser=0)
+
+
+3. RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+
+### Languages
+* **English** - between B1 *Intermediate* and B2 *Upper Intermediate* (according to the online test at ![EFset Logo](https://lh3.googleusercontent.com/buc6YaOIwECM7IArw1_9lUiYVNDQi06XMOpGNBHsuZxmx2O9HVrnP2ZSGI1wfzgV7RNi4fClDNqS2pHSQsn8HeS4FLxZROIo-7FdHAx6rsJDM9YwY9lBymHml7e_17E0YVqh_MMPo4MLrs21xFIT1PT8A0J_J9d7y-ktlKpU4WQuHn-W4UovcXgjq7dwF4qlrAl6rcMem9uqPGCAUb0jVCQ3maduNLuy6N8qVQusfgOyADb-Ww6pypqhSelDOXNq3agIkaYxAw9j4VbeTgTXpIA-YlD6U2tWr0-fz_XbEv2qudo6NzdVYYEcSUHiczBWaZgMjP0UpOgBdoWmrMnM1wpquR1ARtqEoBerglG6A8lbVFAGLnDBTeKfyjZK9IHL-8ySvsA5uyEWrnR7hdLGLexh5xiRNFiPaFXGSN79eAqBb9renyyZP8yWcwRC0lkPS9M8n8DpEnDdJgVkUoP3Qe3o4030FDsSApGBvsTdAvifYZirn2-ojHSdBDQaOrxrilVZqbYcvsxfcPWs8ybKOnjzhwBL1qpgEZP_eoMYYLGBujWLnFkAhsvmVgRp8UxM8k7a4rYgl1KRhJo0G4BfORQEHY3QDrTYDVVvSpcN_VekoM2H5laGzz46mjni6Ry7ZvWbUUNL278pixYSqS4R9UBl6iggLo8TingBqlCarmoxrW84cwU36FIoIJTLgLD-sZybzcFzsfBMB-QyOAhY8VBzHsiHasuvXZ13XMdt35CB4M6XnfwTV4PbLVDIPwC59Fggl8FndHRYuGX6teVUFszyuYkkR5R2gAOgsRQVUIbMqYIzNagDAI-c9aeStQ2JkiK77GeHIerhcEIJtgyNt6UeGFyTpIYQ0fE8EnmAmjxoi_cPdfoFPRktM0GYJcDRBOT7GaxytZrWggKCdspyDrth46sJGHO9GuQXNs2PIzt3JQ=w86-h31-no?authuser=0) [www.efset.org](https://www.efset.org/))
+
+### ![Languagesrtificat 2](https://lh3.googleusercontent.com/XQKO01BCa9xBohNmZYNI3lA9YOxi-P9wvKqmqL7bGvhE78U_Fsf7os3Aa23NYwGT8XzlCM6ycU1kRdW2nGLUn19ZuC_WDZeH8BJezotIECbOYGFHvGgugqJDQzUue5UQBMDZMuMQwYL4O1Qf3CUXOPCA2NsRq4PBRNokaCYXsCZSQZSjIPJIbOY9zIIBskrrUiFU7X5EAnwvtG9OCot9FbBEAskHXq2r9Awy9DPcH-Kdx0bQxkNpLMufMBg15_qQFrnujPoykw58QJacUuiVkNVn1qIZtQPvB2mW6r-FlKzclUCNSyag0dXv_8TWuFLdCCqw9g1h96Y6S-UQJEaPDOg1rcAMn9FVVoBvEY4fSaPBz6aCGBwWFXTnVnLyWmTsLRvixB9L49CpJiIN8pOcyOTNMj1gffoAk5A4TPU_4ZXFg5k7w_xWkozbtvC1_62HUoEVGPuWClG4e3L1r4u4nnd21gj3eecEr07-8_KlbnZRd8X2J6wxoKb_1R9li41hn31S7v1X0KOwXGIEUrh6rozXtMA4ZsRioIgWsP_BN1su9DzO_oZXhPDAmwirdtfwNDH4jtPdIgviNoMTi3OCnGOF0qOXdeBtULw4cuYCAJYBHSzrsRLrpjvFCTMS2cyWmR0EmEPa4lvigwEf0YafPzapmslXOcegX9KPqumeK45_YOliaAmLgTr34d1Kl2jM3DzFuuZtsetkvbnMLNxGvFRZV7EuGA_kwog2OOiuYnSKT2K-gcpmlkmvdQMVvcG75KqfmXnOhNdMJdKiUoXuioMAxSSM8ItpYDfDStKt9Z6MhbtolpFPV-_Oc_KckG0fDiXDalcnTQ4b6UkGFpBNiKa9NoBKyxlAd48wgfbWkH72pSWHR0tIs0jbZ1_aUKGyqV7628IYrsHRXaXE-juZ0YhVzlHse57oXKtaaIzj3EKZOw=s195-no?authuser=0)
+
+* *Belarusian - Native*
+* Russian - Native
+* **Polish - Basic**
